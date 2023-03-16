@@ -74,3 +74,25 @@ namespace ConsoleApp1
         }
     }
 }
+/*references:
+ *Author surname, initial. (Year) Page title. Available at: URL (Accessed: Day Month Year).
+ * 
+ * Vannevel,J.(2014)How can I round up the time to the nearest X minutes?. Avaiable at:https://stackoverflow.com
+ * /questions/7029353/how-can-i-round-up-the-time-to-the-nearest-x-minutes(Accessed: 2023/03/16)
+ *
+ * Gabe.(2013) Convert Decimal to Hours Minutes and Seconds in C# .Net. Available at: https://stackoverflow.com/
+ * questions/18404243/convert-decimal-to-hours-minutes-and-seconds-in-c-sharp-net(Accessed: 2023/03/16)
+ *
+ * Diwan,A.(2019)Math.Floor() Method in C#. Available at: https://www.tutorialspoint.com/math-floor-method-in-chash
+ * #:~:text=The%20Math.,equal%20to%20the%20specified%20number.(Accessed: 2023/03/16)
+ *
+ * W3Schools.(2023)C# Arrays. Available at:https://www.w3schools.com/cs/cs_arrays.php(Accessed: 2023/03/16)
+ *
+ * C# Tutorial.(2023)The If Statement. Available at:https://csharp.net-tutorials.com/control-structures/if-statement/(
+ * Accessed: 2023/03/16)
+ *
+ * Code-Maze.(2022)How to Sum Up Elements of an Array in C#. Available at: https://code-maze.com/
+ * csharp-sum-up-elements-of-an-array/.(Accessed: 2023/03/16)
+ *
+ * W3Schools.(2023)C# For Loop. Available at:https://www.w3schools.com/cs/cs_for_loop.php(Accessed: 2023/03/16)
+*/
